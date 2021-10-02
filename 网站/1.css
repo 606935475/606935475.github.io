@@ -1,0 +1,25 @@
+.div{
+    back
+}
+.div1{
+    height: 300px;
+    width: 600px;
+    padding: 50px;
+}
+.png1{
+    height: 200px;
+    width: 300px;
+}
+.png2{
+    height: 80px;
+    width: 800px;
+    padding-left: 320px;
+    padding-right: 380px;
+    padding-bottom: 0px;
+}
+.jpg1{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-top: 50px;
+}
